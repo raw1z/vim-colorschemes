@@ -1,5 +1,5 @@
 " Vim color file
-" Converted from Textmate theme Fluidvision using Coloration v0.3.2 (http://github.com/sickill/coloration)
+" Converted from Textmate theme fluidvision using Coloration v0.3.2 (http://github.com/sickill/coloration)
 
 set background=dark
 highlight clear
@@ -8,7 +8,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let g:colors_name = "Fluidvision"
+let g:colors_name = "fluidvision"
 
 hi Cursor ctermfg=NONE ctermbg=0 cterm=NONE guifg=NONE guibg=#000000 gui=NONE
 hi Visual ctermfg=NONE ctermbg=222 cterm=NONE guifg=NONE guibg=#ffd793 gui=NONE
